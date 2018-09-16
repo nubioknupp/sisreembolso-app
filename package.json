@@ -1,0 +1,23 @@
+{
+  "name": "sisreembolso-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nubioknupp/sisreembolso-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nubioknupp/sisreembolso-app/issues"
+  },
+  "homepage": "https://github.com/nubioknupp/sisreembolso-app#readme",
+  "dependencies": {
+    "firebase": "^5.5.0"
+  }
+}
